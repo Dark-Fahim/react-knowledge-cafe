@@ -18,10 +18,10 @@ const Blogs = ({handleBookmark, handleMarAsRead}) => {
             <h1>Blogs {blogs.length}</h1>
             <div className='blogs-container'>
                 {
-                    blogs.map(blog => <Blog
+                    blogs.map((blog, idx) => <Blog
                         handleMarAsRead={handleMarAsRead}
                          handleBookmark={handleBookmark}
-                         key={blog.article_id} 
+                         key={idx} 
                          blog={blog}></Blog>)
                 }
             </div>
