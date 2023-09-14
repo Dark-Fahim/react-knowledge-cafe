@@ -2,51 +2,51 @@
     {
       "article_id": "12345",
       "cover_image": "https://i.ibb.co/wKK0gYX/photo-1607370658981-051075679ef0.jpg",
-      "title": "Exploring_the_Mysteries_of_Quantum_Mechanics",
-      "author_name": "Sandra_Johnson",
+      "title": "Exploring the Mysteries of Quantum Mechanics",
+      "author_name": "Sandra Johnson",
       "author_image": "https://i.ibb.co/wyX1xsq/profile.png",
       "reading_time": 10,
-      "posted_date": "September_14,_2023",
+      "posted_date": "September 14, 2023",
       "hashtags": ["#QuantumPhysics", "#Science", "#Mysteries"]
     },
     {
       "article_id": "67890",
       "cover_image": "https://i.ibb.co/RgGdJS1/photo-1457369804613-52c61a468e7d.jpg",
-      "title": "Mastering_the_Art_of_Culinary_Delights",
-      "author_name": "Benjamin_Cooksworth",
+      "title": "Mastering the Art of Culinary Delights",
+      "author_name": "Benjamin Cooksworth",
       "author_image": "https://i.ibb.co/wyX1xsq/profile.png",
       "reading_time": 15,
-      "posted_date": "September_12,_2023",
+      "posted_date": "September 12, 2023",
       "hashtags": ["#Cooking", "#CulinaryArt", "#Recipes"]
     },
     {
       "article_id": "54321",
       "cover_image": "https://i.ibb.co/hYQpksR/photo-1515940175183-6798529cb860.jpg",
-      "title": "The_Thrill_of_Adventure_Travel",
-      "author_name": "Emily_Wanderlust",
+      "title": "The Thrill of Adventure Travel",
+      "author_name": "Emily Wanderlust",
       "author_image": "https://i.ibb.co/wyX1xsq/profile.png",
       "reading_time": 8,
-      "posted_date": "September_10,_2023",
+      "posted_date": "September 10, 2023",
       "hashtags": ["#Adventure", "#Travel", "#Explore"]
     },
     {
       "article_id": "98765",
       "cover_image": "https://i.ibb.co/gFtxRBP/premium-photo-1667899297207-a0410feb0433.jpg",
-      "title": "Unlocking_the_Secrets_of_Digital_Marketing",
-      "author_name": "David_Digitalson",
+      "title": "Unlocking the Secrets of Digital Marketing",
+      "author_name": "David Digitalson",
       "author_image": "https://i.ibb.co/wyX1xsq/profile.png",
       "reading_time": 12,
-      "posted_date": "September_8,_2023",
+      "posted_date": "September 8, 2023",
       "hashtags": ["#DigitalMarketing", "#MarketingTips", "#OnlineAdvertising"]
     },
     {
       "article_id": "24680",
       "cover_image": "https://i.ibb.co/HqwFBBs/photo-1465146344425-f00d5f5c8f07.jpg",
-      "title": "The_Healing_Power_of_Mindfulness_Meditation",
-      "author_name": "Laura_Serenity",
+      "title": "The Healing Power of Mindfulness Meditation",
+      "author_name": "Laura Serenity",
       "author_image": "https://i.ibb.co/wyX1xsq/profile.png",
       "reading_time": 7,
-      "posted_date": "September_6,_2023",
+      "posted_date": "September 6, 2023",
       "hashtags": ["#Mindfulness", "#Meditation", "#Wellness"]
     }
 ]
